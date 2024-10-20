@@ -4,7 +4,7 @@
 
 Facilitated an easy-to-use drag and drop itinerary planner, allowing users to visually organize their travel schedule.
 
-1.Trello-Inspired Interface: Familiar drag-and-drop functionality for intuitive travel scheduling.
+1.User Friendly Interface: Familiar drag-and-drop functionality for intuitive travel scheduling.
 
 2.Simple Duplication and Editing: Quickly copy and edit itineraries.
 
