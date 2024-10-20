@@ -1,4 +1,6 @@
 ## Travel and Iternary Planner with Next.js and Meta LLAMA 3.1
+## End Sem Project for Full Stack Development
+## BY Jayanth Adhitya and Harshita
 
 Facilitated an easy-to-use drag and drop itinerary planner, allowing users to visually organize their travel schedule.
 
