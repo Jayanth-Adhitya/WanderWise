@@ -1,4 +1,4 @@
-## Travel and Iternary Planner with Next.js and Meta LLAMA 3.1
+# Travel and Iternary Planner with Next.js and Meta LLAMA 3.1
 ## End Sem Project for Full Stack Development
 ## BY Jayanth Adhitya and Harshita
 
